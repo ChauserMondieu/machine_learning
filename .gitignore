@@ -1,0 +1,7 @@
+# ignore data ending with .arff
+*.arff
+# ignore autosave files
+.DS_Store
+.ipynb_checkpoints/
+# ignore saved models
+models/
